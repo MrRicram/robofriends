@@ -1,5 +1,5 @@
 # robofriends
-React project from ZTM = Web Developer 2022 Course
+React project from ZTM - Web Developer 2022 Course
 
 Original - [GitHub Repository](https://github.com/aneagoie/robofriends)
 
